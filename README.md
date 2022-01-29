@@ -6,6 +6,11 @@
 </p>
 
 [![Linkedin: lucas-de-freitas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-freitas/)](https://www.linkedin.com/in/lucas-de-freitas/)
+
+<a href="https://vaipost.com/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
+  </a>
+
 [![GitHub Lucas](https://img.shields.io/github/followers/lucas-tagdev?label=follow&style=social)](https://github.com/lucas-TagDev)
 
 <p align='center'>
