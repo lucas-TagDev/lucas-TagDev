@@ -1,8 +1,8 @@
 <h1 align='center'>
   Hi, I'm Lucas! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h1>
-<palign='center'>
-~#Dev Web/Mobile (FullStack)
+<p align='center'>
+~#Dev Web/Mobile (Santarém-Pa Brazil)
 </p>
 
 [![Linkedin: lucas-de-freitas](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-de-freitas/)](https://www.linkedin.com/in/lucas-de-freitas/)
